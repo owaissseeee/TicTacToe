@@ -2,6 +2,14 @@
 
 A highly polished, local 2-player Tic-Tac-Toe game built in Flutter. This project focuses on extremely satisfying gameplay mechanics, seamless state management, and a clean "Toy Pop Minimal" aesthetic complete with juicy animations and dynamic audio.
 
+<img width="360" height="700" alt="2" src="https://github.com/user-attachments/assets/bb793355-762b-4bf8-9846-8190007d63b9" />
+<img width="360" height="700" alt="3" src="https://github.com/user-attachments/assets/0e07af57-a94a-48a6-b214-e52eacd9928c" />
+<img width="360" height="700" alt="1" src="https://github.com/user-attachments/assets/7e9c677d-96fa-42e9-b6d5-2a0eea02431b" />
+
+
+
+
+
 ## Features
 
 * **Juicy UI & Animations:** Features elastic tap animations, bouncy button scaling, and a custom confetti particle system for victories.
