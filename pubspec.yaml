@@ -1,0 +1,33 @@
+name: tictactoe
+description: "A Toy-Pop Minimal 2-Player Tic-Tac-Toe party game in Flutter."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.4
+
+dependencies:
+  audioplayers: ^6.8.1
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  provider: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  change_app_package_name: ^1.5.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sound/click.mp3
+    - assets/sound/error.mp3
+    - assets/sound/win.mp3
+    - assets/sound/theme.mp3
+
+flutter_icons:
+  android: "launcher_icon"
+  image_path: "assets/icon.png"
